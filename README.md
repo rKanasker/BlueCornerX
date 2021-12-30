@@ -1,2 +1,2 @@
-# BlueCornerX
+# BlueCornerX🧿
 Blue Corner X is a powerful, quick and epic harmless trojan with unlimited payloads created in C++ with Maltoolkit...
